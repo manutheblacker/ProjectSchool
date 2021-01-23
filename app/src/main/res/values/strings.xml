@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Meteo Application</string>
+    <string name="get_location">Obtenir les coordonnées GPS</string>
+    <string name="bienvenue_dans_l_application_de_m_t_o">Bienvenue dans l\'application de données GPS</string>
+    <string name="votre_position_gps_est">Vos coordonnées GPS sont :</string>
+
+</resources>
